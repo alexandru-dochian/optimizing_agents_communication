@@ -1,0 +1,15 @@
+{
+  "name": "wall_map",
+  "width": 10,
+  "height": 10,
+  "obstacles_positions": [
+    [8, 9],
+    [8, 8],
+    [8, 7],
+    [8, 6],
+    [8, 5],
+    [7, 4],
+    [6, 3]
+  ],
+  "goal_position": [9, 9]
+}

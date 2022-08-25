@@ -1,0 +1,7 @@
+{
+  "name": "no_obstacles_map",
+  "width": 10,
+  "height": 10,
+  "obstacles_positions": [],
+  "goal_position": [9, 9]
+}

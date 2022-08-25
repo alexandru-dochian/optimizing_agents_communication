@@ -1,0 +1,17 @@
+{
+  "name": "x_square_map",
+  "width": 10,
+  "height": 10,
+  "obstacles_positions": [
+    [5, 4],
+    [6, 3],
+    [4, 5],
+    [4, 3],
+    [6, 5],
+    [1, 7],
+    [1, 8],
+    [2, 7],
+    [2, 8]
+  ],
+  "goal_position": [9, 9]
+}
